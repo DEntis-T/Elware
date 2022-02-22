@@ -1,0 +1,1 @@
+x=MsgBox("All files started and prepared up to get started! To continue starting Elware, please, open 'ELWARE-OS' batch file. If you are having problems while manual searching you can use runner.bat to find it...",0+0,"SYSTEM (Elware OS)") 

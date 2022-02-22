@@ -1,0 +1,1 @@
+The main user of this ElwareOS (v1.0.457) is 'SYSTEM (Elware System)'. 

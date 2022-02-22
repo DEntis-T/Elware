@@ -1,0 +1,9 @@
+Welcome to ETZ.COM!
+Please run application 'PROGRAM_FILES'. 
+_________________________________
+That application will automatically create program files for this software 'ETZ.COM Office'. If you already have all files just ignore an app.
+Thanks!
+...................................................................
+Also when you open some apps in 'Applications' folder they will create their own program files folders.
+--------------------------------------------------------
+Thank you for using this software!
