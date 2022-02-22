@@ -1,0 +1,1 @@
+If you are using public user - C:\Users\Public\Desktop\"ELBRAT364 - Software & Programs"\"elware.elw"\"ELWARE - Operative System"\Elware\ELWARE-OS.bat or If you are using your own private user - C:\Users\(YourUserName)\Desktop\"ELBRAT364 - Software & Programs"\"elware.elw"\"ELWARE - Operative System"\Elware\ELWARE-OS.bat 
